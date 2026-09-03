@@ -17,6 +17,13 @@ Project manager who builds. I work at the intersection of product delivery, data
 
 ### 📚 Learning
 - Kikagaku Long-Term AI/ML Program
+- Google Business Intelligence
+- Machine Learning (DeepLearning.AI / Coursera / Stanford)
+
+### 🌐 Languages
+- Japanese — Native
+- English — Business (Advanced)
+- Portuguese — Business (Beginner)
 
 ### 🛠️ Tech
 `Python` · `PyTorch` · `Computer Vision` · `Streamlit` · `SQL` · `Tableau`
