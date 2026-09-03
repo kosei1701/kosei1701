@@ -31,7 +31,7 @@ Project manager who builds. I work at the intersection of product delivery, data
 - **Middle East & Africa** — 🇶🇦 Qatar · 🇪🇹 Ethiopia
 - **Europe** — 🇵🇹 Portugal · 🇪🇸 Spain
 - **North America** — 🇨🇦 Canada · 🇺🇸 United States · 🇲🇽 Mexico
-- **Central America** — 🇬🇹 Guatemala · 🇸🇻 El Salvador · 🇭🇳 Honduras · 🇳🇮 Nicaragua · 🇨🇷 Costa Rica · 🇵🇦 Panama
+- **Central America & Caribbean** — 🇨🇺 Cuba · 🇬🇹 Guatemala · 🇸🇻 El Salvador · 🇭🇳 Honduras · 🇳🇮 Nicaragua · 🇨🇷 Costa Rica · 🇵🇦 Panama
 - **South America** — 🇪🇨 Ecuador · 🇵🇪 Peru · 🇧🇴 Bolivia · 🇨🇱 Chile · 🇦🇷 Argentina · 🇵🇾 Paraguay · 🇺🇾 Uruguay · 🇧🇷 Brazil
 
 ### 🛠️ Tech
