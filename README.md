@@ -5,8 +5,7 @@ Project manager who builds. I work at the intersection of product delivery, data
 ---
 
 ### 🔬 Focus
-- **Applied LLM / RAG** — designing and prototyping practical AI apps
-- **AI safety & red-teaming** — probing failure modes of tool-using agents
+- **Data science** — demand forecasting, image analysis (computer vision), and other applied ML
 - **Data / BI** — turning analysis into decisions
 
 ### 🏅 Achievement
@@ -20,7 +19,7 @@ Project manager who builds. I work at the intersection of product delivery, data
 - Kikagaku Long-Term AI/ML Program
 
 ### 🛠️ Tech
-`Python` · `PyTorch` · `LLM / RAG` · `Streamlit` · `SQL` · `Tableau`
+`Python` · `PyTorch` · `Computer Vision` · `Streamlit` · `SQL` · `Tableau`
 
 ---
 
