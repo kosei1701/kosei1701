@@ -32,7 +32,7 @@ Project manager who builds. I work at the intersection of product delivery, data
 - **Europe** — 🇵🇹 Portugal · 🇪🇸 Spain
 - **North America** — 🇨🇦 Canada · 🇺🇸 United States · 🇲🇽 Mexico
 - **Central America** — 🇬🇹 Guatemala · 🇸🇻 El Salvador · 🇭🇳 Honduras · 🇳🇮 Nicaragua · 🇨🇷 Costa Rica · 🇵🇦 Panama
-- **South America** — 🇪🇨 Ecuador · 🇵🇪 Peru · 🇧🇴 Bolivia · 🇦🇷 Argentina · 🇵🇾 Paraguay · 🇺🇾 Uruguay · 🇧🇷 Brazil
+- **South America** — 🇪🇨 Ecuador · 🇵🇪 Peru · 🇧🇴 Bolivia · 🇨🇱 Chile · 🇦🇷 Argentina · 🇵🇾 Paraguay · 🇺🇾 Uruguay · 🇧🇷 Brazil
 
 ### 🛠️ Tech
 `Python` · `PyTorch` · `Computer Vision` · `Streamlit` · `SQL` · `Tableau`
