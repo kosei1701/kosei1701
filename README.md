@@ -25,6 +25,15 @@ Project manager who builds. I work at the intersection of product delivery, data
 - English — Business (Advanced)
 - Portuguese — Business (Beginner)
 
+### 🗺️ Countries visited
+- **East Asia** — 🇯🇵 Japan · 🇨🇳 China · 🇰🇷 South Korea · 🇹🇼 Taiwan
+- **Southeast Asia** — 🇻🇳 Vietnam · 🇹🇭 Thailand · 🇵🇭 Philippines · 🇮🇩 Indonesia · 🇰🇭 Cambodia · 🇲🇾 Malaysia
+- **Middle East & Africa** — 🇶🇦 Qatar · 🇪🇹 Ethiopia
+- **Europe** — 🇵🇹 Portugal · 🇪🇸 Spain
+- **North America** — 🇨🇦 Canada · 🇺🇸 United States · 🇲🇽 Mexico
+- **Central America** — 🇬🇹 Guatemala · 🇸🇻 El Salvador · 🇭🇳 Honduras · 🇳🇮 Nicaragua · 🇨🇷 Costa Rica · 🇵🇦 Panama
+- **South America** — 🇪🇨 Ecuador · 🇵🇪 Peru · 🇧🇴 Bolivia · 🇦🇷 Argentina · 🇵🇾 Paraguay · 🇺🇾 Uruguay · 🇧🇷 Brazil
+
 ### 🛠️ Tech
 `Python` · `PyTorch` · `Computer Vision` · `Streamlit` · `SQL` · `Tableau`
 
